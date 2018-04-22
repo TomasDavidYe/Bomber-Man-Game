@@ -1,0 +1,18 @@
+C:\Users\tommy\Desktop\My Thang\Mat-Fyz\Programmin'\Bomber-Man\BomberManSolution\BomberManSolution\bin\Debug\BomberManSolution.exe.config
+C:\Users\tommy\Desktop\My Thang\Mat-Fyz\Programmin'\Bomber-Man\BomberManSolution\BomberManSolution\bin\Debug\BomberManSolution.exe
+C:\Users\tommy\Desktop\My Thang\Mat-Fyz\Programmin'\Bomber-Man\BomberManSolution\BomberManSolution\bin\Debug\BomberManSolution.pdb
+C:\Users\tommy\Desktop\My Thang\Mat-Fyz\Programmin'\Bomber-Man\BomberManSolution\BomberManSolution\obj\Debug\BomberManSolution.csprojResolveAssemblyReference.cache
+C:\Users\tommy\Desktop\My Thang\Mat-Fyz\Programmin'\Bomber-Man\BomberManSolution\BomberManSolution\obj\Debug\BomberManSolution.Form1.resources
+C:\Users\tommy\Desktop\My Thang\Mat-Fyz\Programmin'\Bomber-Man\BomberManSolution\BomberManSolution\obj\Debug\BomberManSolution.Properties.Resources.resources
+C:\Users\tommy\Desktop\My Thang\Mat-Fyz\Programmin'\Bomber-Man\BomberManSolution\BomberManSolution\obj\Debug\BomberManSolution.csproj.GenerateResource.Cache
+C:\Users\tommy\Desktop\My Thang\Mat-Fyz\Programmin'\Bomber-Man\BomberManSolution\BomberManSolution\obj\Debug\BomberManSolution.exe
+C:\Users\tommy\Desktop\My Thang\Mat-Fyz\Programmin'\Bomber-Man\BomberManSolution\BomberManSolution\obj\Debug\BomberManSolution.pdb
+C:\Users\tommy\Desktop\My Thang\Quest to America\GitHub stuff\Projects\Bomber-Man\BomberManSolution\BomberManSolution\bin\Debug\BomberManSolution.exe.config
+C:\Users\tommy\Desktop\My Thang\Quest to America\GitHub stuff\Projects\Bomber-Man\BomberManSolution\BomberManSolution\obj\Debug\BomberManSolution.exe
+C:\Users\tommy\Desktop\My Thang\Quest to America\GitHub stuff\Projects\Bomber-Man\BomberManSolution\BomberManSolution\obj\Debug\BomberManSolution.pdb
+C:\Users\tommy\Desktop\My Thang\Quest to America\GitHub stuff\Projects\Bomber-Man\BomberManSolution\BomberManSolution\bin\Debug\BomberManSolution.exe
+C:\Users\tommy\Desktop\My Thang\Quest to America\GitHub stuff\Projects\Bomber-Man\BomberManSolution\BomberManSolution\bin\Debug\BomberManSolution.pdb
+C:\Users\tommy\Desktop\My Thang\Quest to America\GitHub stuff\Projects\Bomber-Man\BomberManSolution\BomberManSolution\obj\Debug\BomberManSolution.csprojResolveAssemblyReference.cache
+C:\Users\tommy\Desktop\My Thang\Quest to America\GitHub stuff\Projects\Bomber-Man\BomberManSolution\BomberManSolution\obj\Debug\BomberManSolution.Form1.resources
+C:\Users\tommy\Desktop\My Thang\Quest to America\GitHub stuff\Projects\Bomber-Man\BomberManSolution\BomberManSolution\obj\Debug\BomberManSolution.Properties.Resources.resources
+C:\Users\tommy\Desktop\My Thang\Quest to America\GitHub stuff\Projects\Bomber-Man\BomberManSolution\BomberManSolution\obj\Debug\BomberManSolution.csproj.GenerateResource.Cache
